@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="rocketshoes" title="rocketshoes" src=".github/logo.svg" width="360px" />
+  <img alt="RocketShoes" title="RocketShoes" src=".github/logo.svg" width="360px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="to.do" src=".github/to.do.png" width="100%">
+  <img alt="RocketShoes" src=".github/RocketShoes.png" width="100%">
 </p>
 
 ## 🧪 Tecnologias
@@ -35,7 +35,7 @@ yarn start
 
 ## 💻 Projeto
 
-O Rocketshoes foi um desafio realizado durante o bootcamp Ignite, na trilha de ReactJS. Trata-se de um e-commerce para venda de calçados.
+O RocketShoes foi um desafio realizado durante o bootcamp Ignite, na trilha de ReactJS. Trata-se de um e-commerce para venda de calçados.
 
 ## :memo: Licença
 
