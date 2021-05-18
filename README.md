@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash 
 git clone https://github.com/gutemberg-jhonata/rocketshoes.git
 cd rocketshoes
+yarn server
 yarn start
 ```
 
