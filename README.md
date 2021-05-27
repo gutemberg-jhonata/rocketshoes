@@ -9,6 +9,12 @@
   <a href="#-licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=1374ef&labelColor=000000">
+
+  <img src="https://img.shields.io/static/v1?label=ignite&message=React.js&color=1374ef&labelColor=000000" alt="Ignite ReactJS" />
+</p>
+
 <br>
 
 <p align="center">
